@@ -1,9 +1,10 @@
 package mem
 
 import (
-	"MyGoUtil/pt"
 	"reflect"
 	"testing"
+
+	"github.com/pislbert/MyGoUtil/pt"
 )
 
 // 普通对比

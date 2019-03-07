@@ -1,8 +1,9 @@
 package common
 
 import (
-	"MyGoUtil/pt"
 	"testing"
+
+	"github.com/pislbert/MyGoUtil/pt"
 )
 
 func TestArrToObjs(t *testing.T) {

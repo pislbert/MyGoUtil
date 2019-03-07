@@ -1,8 +1,9 @@
 package stropt
 
 import (
-	"MyGoUtil/pt"
 	"testing"
+
+	"github.com/pislbert/MyGoUtil/pt"
 )
 
 func Test_DivideFloat(t *testing.T) {
